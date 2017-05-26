@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_5563fc7aaa8960889c15583cdc42b5f513e6f0fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_d14aa9db0be7f3c3c8df16e21fe613b389ddfd26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_086165eb4494439c01bf98293c72c5f5032a1879\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d8b4740ad3c6a492ff93e1bdd80ae2ee82343d9">
+        <dex dex="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_20916a1c55b83ca9e8aa7648b7938cb475337b5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_2c097c18c9f036b51cd72aad650ae1feb3d6122a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_6c216329ee12816dc8d0ecfce4c426b6f25455dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fe440fbaa9d3dccb47493275cf1658c42731a4c">
+        <dex dex="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_936dccb393358547e93f253fbee96f33a5d64fa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_d8ccfa763c8e11fbb82e9f3672529d34d2d8644e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_599a0f312bb4ead5cdd1ccb1eee6c7a5ee315ed4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zurita\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_456a927d3fa83d6cf7a226d169cea317a87edc50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_72d6f81aa612253c9e8e2fdc3bf97ca0a23d908e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Zurita\AndroidStudioProjects\MisContactos-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_462cbc02b7b0019ab838324bd37ea0f55518a94b\classes.dex" />
+    </item>
+
+</items>
